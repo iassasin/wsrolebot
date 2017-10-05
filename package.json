@@ -1,0 +1,15 @@
+{
+	"name": "wsrolebot",
+	"version": "0.0.1",
+	"description": "Sinair chat roleplay bot",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "iassasin",
+	"license": "MIT",
+	"dependencies": {
+		"ws": "^3.0.0",
+		"wschatapi": "git+https://github.com/iassasin/wschatapi.git"
+	}
+}
